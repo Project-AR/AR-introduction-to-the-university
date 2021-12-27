@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 4876301996860180495
-  m_GuidHigh: 6281784284988448663
+  m_GuidLow: 5459087159489282488
+  m_GuidHigh: 8183683543292463025
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5176698362913651714
-      m_GuidHigh: 12045184236744815245
+      m_GuidLow: 5565726434728037516
+      m_GuidHigh: 18354064704700107924
     m_SerializedTextureGuid:
-      m_GuidLow: 18402939262635644187
-      m_GuidHigh: 10883693906445255402
+      m_GuidLow: 5648919199756571781
+      m_GuidHigh: 794001779170825898
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: test
-    m_Texture: {fileID: 2800000, guid: a47c951b5fc1ff64eac2c091f1a50a97, type: 3}
+    m_Name: logotest
+    m_Texture: {fileID: 2800000, guid: 3a5fd485fe154e64aa56814e69dc040b, type: 3}
