@@ -8,6 +8,7 @@ public class CollectionItem : IComparable
 {
     public string Name;
     public GameObject VisualModel;
+    public Sprite Image;
     public string TextInfo;
     public bool IsFavorite;
 

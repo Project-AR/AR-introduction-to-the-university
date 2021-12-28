@@ -16,5 +16,6 @@ MonoBehaviour:
   Data:
     Name: "\u0425\u0438\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u043F\u0440\u0438\u0431\u043E\u0440"
     VisualModel: {fileID: 8472978806161826104, guid: 14c949a333e8311479bd0990eb57e2cd, type: 3}
+    Image: {fileID: 21300000, guid: 1ef04dd2cb2e6f949bbf4c97ae9cda86, type: 3}
     TextInfo: This is test 2
     IsFavorite: 0
