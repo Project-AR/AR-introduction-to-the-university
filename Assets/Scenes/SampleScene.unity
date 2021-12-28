@@ -522,6 +522,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1330578022594950197, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1332506499285543231, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1332506499285543231, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1332506499285543231, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4561776879466650915, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
       propertyPath: m_Name
       value: TargetMarkers
@@ -578,10 +594,26 @@ PrefabInstance:
       propertyPath: tracker
       value: 
       objectReference: {fileID: 2077138928}
+    - target: {fileID: 6546565861574826283, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6578443918567583019, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
       propertyPath: tracker
       value: 
       objectReference: {fileID: 2077138928}
+    - target: {fileID: 8228909629073364068, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228909629073364068, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228909629073364068, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d518e0f063a41448ac72c5ad062f84, type: 3}
 --- !u!1 &131046579
