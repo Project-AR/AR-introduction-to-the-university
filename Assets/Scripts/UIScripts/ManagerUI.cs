@@ -53,8 +53,16 @@ public class ManagerUI : MonoBehaviour
     }
     public void EmailConfirmationResult()
     {
-        if (confirmRegustration) ShowMain();
-        else ShowRegistrationPanel();
+        if (confirmRegustration)
+        {
+            EmailConfirmationPanel.SetActive(false);
+            ShowMain();
+        }
+        else
+        {
+            EmailConfirmationPanel.SetActive(false);
+            ShowRegistrationPanel();
+        }
     }
 
     public void ActivateAR(bool isActivate)
@@ -65,13 +73,15 @@ public class ManagerUI : MonoBehaviour
 
     public void ShowMain()
     {
+        LoginPanel.SetActive(false);
         EmailConfirmationPanel.SetActive(false);
 
         isArActive = false;
         ActivateAR(isArActive);
 
         NavigationgPanel.SetActive(true);
-        ProfilePanel.SetActive(true);
+        //ProfilePanel.SetActive(true);
+        ShowARPanel();
     }
     public void ShowARPanel()
     {
